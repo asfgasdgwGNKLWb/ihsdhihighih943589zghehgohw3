@@ -23,5 +23,4 @@ Please config the config.js file with your Details (important for generating acc
 If you have any Issues or Questions please contact me on one of the following plattforms:
 
 - Telegram: https://t.me/LELAXLTCL
-- Discord: https://discord.gg/galaxypanel -or- https://discord.gg/NsMUAQPvG5 (Open an Ticket)
 - Discord Username: lelaxltcl
